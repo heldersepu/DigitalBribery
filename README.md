@@ -8,3 +8,6 @@ This project is about forms of digital bribery && other non analog crimes.
 - Polymorphic Rigging
 - Hexadecimal Smuggling
 - Cross Script Gambling
+- Manufacture Of Void Object
+- CapsLock Abuse
+
