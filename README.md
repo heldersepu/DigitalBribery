@@ -5,4 +5,6 @@ This project is about forms of digital bribery && other non analog crimes.
 - Black Market Binary Numbers
 - Peer Programming Collusion
 - Recursive Inheritance Loopholes
-
+- Polymorphic Rigging
+- Hexadecimal Smuggling
+- Cross Script Gambling
