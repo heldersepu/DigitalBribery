@@ -10,4 +10,5 @@ This project is about forms of digital bribery && other non analog crimes.
 - Cross Script Gambling
 - Manufacture Of Void Object
 - CapsLock Abuse
+- Bubble Hoarding
 
