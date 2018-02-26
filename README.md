@@ -1,5 +1,5 @@
-# DigitalBribery
-This project is about forms of digital bribery && other non analog crimes.
+# DigitalCorruption
+This project is about forms of Digital Corruption && other non Analog Crimes.
 
 - Open Source Kickbacks
 - CopyLeft Piracy
