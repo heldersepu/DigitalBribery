@@ -17,4 +17,4 @@ This project is about forms of Digital Corruption && other non Analog Crimes.
 - Lambda Overflowing
 - Denial Of Digit
 - Use of undefined constants
-
+- Octal Forgery
