@@ -13,7 +13,7 @@ This project is about forms of Digital Corruption && other non Analog Crimes.
 - CapsLock Abuse
 - Bubble Hoarding
 - Tuple Treason
-- Style Scheet Conspiracy
+- Style Sheet Conspiracy
 - Lambda Overflowing
 - Denial Of Digit
 - Use of undefined constants
